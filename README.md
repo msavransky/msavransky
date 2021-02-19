@@ -5,7 +5,7 @@
 
 ### Academic
 
-- [PH.D Thesis](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6068_Savransky)
+- Math [PH.D Thesis](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6068_Savransky)
 
 Published articles:
 - [Hypercyclic behavior of some non-convolution operators](http://www.mathjournals.org/jot/2017-077-001/2017-077-001-003.html)
