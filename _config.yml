@@ -4,12 +4,12 @@ show_downloads: false
 google_analytics: false
 theme: jekyll-theme-minimal
 
-social-network-links:
-  email: "martinsavransky@gmail.com"
-  github: msavransky
-  twitter: MartinSavransky
-  research-gate: Martin-Savransky
-  linkedin: martin-savransky-24596836
+#social-network-links:
+#  email: "martinsavransky@gmail.com"
+#  github: msavransky
+#  twitter: MartinSavransky
+#  research-gate: Martin-Savransky
+#  linkedin: martin-savransky-24596836
 
 # --- Logo --- #
 
@@ -22,4 +22,4 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/msavransky/ppbn.jpg"
+#title-img: "/msavransky/ppbn.jpg"
