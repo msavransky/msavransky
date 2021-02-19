@@ -3,4 +3,5 @@ description: false
 show_downloads: false
 google_analytics: false
 logo: "/ppbn.jpg"
+round-logo: true
 theme: jekyll-theme-minimal
