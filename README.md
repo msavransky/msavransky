@@ -1,7 +1,7 @@
 ## Personal Page
 ### Position
-- Production at [tiap](tiapsa.com)
-- Professor at [utdt](utdt.edu)
+- Production at [tiap](https://www.tiapsa.com/)
+- Professor at [utdt](https://www.utdt.edu/)
 
 ### Academic
 
