@@ -2,24 +2,5 @@ title: Personal page
 description: false
 show_downloads: false
 google_analytics: false
-theme: jekyll-theme-minimal
-
-#social-network-links:
-#  email: "martinsavransky@gmail.com"
-#  github: msavransky
-#  twitter: MartinSavransky
-#  research-gate: Martin-Savransky
-#  linkedin: martin-savransky-24596836
-
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-#avatar: "/msavransky/ppbn.jpg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-#round-avatar: true
-
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
 logo: "/msavransky/ppbn.jpg"
+theme: jekyll-theme-minimal
