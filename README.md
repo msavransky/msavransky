@@ -3,6 +3,7 @@
 - Production at [tiap](https://www.tiapsa.com/)
 - Professor at [utdt](https://www.utdt.edu/)
 
+
 ### Academic
 
 - Math [PH.D Thesis](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6068_Savransky)
@@ -12,6 +13,15 @@ Published articles:
 - [Strongly mixing convolution operators on Fréchet spaces of holomorphic functions](https://link.springer.com/article/10.1007/s00020-014-2182-5)
 - [Dynamics of non-convolution operators and holomorphy types](https://www.sciencedirect.com/science/article/abs/pii/S0022247X18306814)
 
+Ongoing Studies:
+- Data Science at [Acamica](https://www.acamica.com/)
+- Specialization in education in natural sciences at [Udesa](https://udesa.edu.ar/)
+
+
+### Data Science proyects
+
+- [Property prices in BA](https://github.com/msavransky/properati)
+
 
 ### Social 
-[twitter](https://twitter.com/MartinSavransky) | [linkedin](https://www.linkedin.com/in/martin-savransky-24596836/) | [research gate](https://www.researchgate.net/profile/Martin-Savransky) | [github](https://github.com/msavransky) 
+[twitter](https://twitter.com/MartinSavransky) | [linkedin](https://www.linkedin.com/in/martin-savransky-24596836/) | [research gate](https://www.researchgate.net/profile/Martin-Savransky) 
