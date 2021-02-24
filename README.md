@@ -2,6 +2,7 @@
 ### Position
 - Production at [tiap](https://www.tiapsa.com/)
 - Professor at [utdt](https://www.utdt.edu/)
+- Head of practical assignments at [uba](http://web.dm.uba.ar/) (former)
 
 
 ### Academic
