@@ -18,7 +18,7 @@ Ongoing Studies:
 - Specialization in education in natural sciences at [Udesa](https://udesa.edu.ar/)
 
 
-### Data Science proyects
+### Data Science projects
 
 - [Property prices in BA](https://github.com/msavransky/properati)
 - [Speech recognition](https://github.com/msavransky/Speech-Recognition)
