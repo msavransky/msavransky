@@ -21,7 +21,7 @@ Ongoing Studies:
 ### Data Science proyects
 
 - [Property prices in BA](https://github.com/msavransky/properati)
-
+- [Speech recognition](https://github.com/msavransky/Speech-Recognition)
 
 ### Social 
 [twitter](https://twitter.com/MartinSavransky) | [linkedin](https://www.linkedin.com/in/martin-savransky-24596836/) | [research gate](https://www.researchgate.net/profile/Martin-Savransky) 
