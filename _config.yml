@@ -3,6 +3,6 @@ description: false
 show_downloads: false
 google_analytics: false
 logo: "/ppbn.jpg"
-show_downloads: "false"
-theme: minima
-  skin: dark
+footer: false
+theme: jekyll-theme-minimal
+  
