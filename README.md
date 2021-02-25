@@ -1,4 +1,4 @@
-## Personal Webiste
+## Personal Website
 ### Position
 - Production at [tiap](https://www.tiapsa.com/)
 - Professor at [utdt](https://www.utdt.edu/)
