@@ -24,6 +24,7 @@ Ongoing Studies:
 - [Property prices in BA](https://github.com/msavransky/properati)
 - [Speech recognition](https://msavransky.github.io/Speech-Recognition/)
 - [Covid-19 data visualization](https://github.com/msavransky/covid/blob/main/Covid_19_VIS.ipynb)
+- [MNIST](https://github.com/msavransky/mnist/blob/main/MNIST.ipynb)
 
 ### Social 
 [twitter](https://twitter.com/MartinSavransky) | [linkedin](https://www.linkedin.com/in/martin-savransky-24596836/) | [research gate](https://www.researchgate.net/profile/Martin-Savransky) 
