@@ -1,7 +1,7 @@
 title: Martin Savransky
 description: false
 show_downloads: false
-google_analytics: UA-110151083-1
+google_analytics: false
 logo: "/ppbn.jpg"
 footer: false
 theme: jekyll-theme-minimal
