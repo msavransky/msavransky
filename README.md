@@ -22,8 +22,8 @@ Ongoing Studies:
 ### Data Science projects
 
 - [Property prices in BA](https://github.com/msavransky/properati)
-- [Speech recognition](https://msavransky.github.io/Speech-Recognition/): check the [Flask app](http://msavransky.pythonanywhere.com/)
-- [Covid-19 data visualization](https://github.com/msavransky/covid/blob/main/Covid_19_VIS.ipynb)
+- [Speech recognition](https://msavransky.github.io/Speech-Recognition/): [Flask app](http://msavransky.pythonanywhere.com/)
+- [Covid-19 data visualization](https://github.com/msavransky/covid/blob/main/Covid_19_VIS.ipynb): [Bar Chart Race](https://public.flourish.studio/visualisation/5397945/)
 - [MNIST](https://github.com/msavransky/mnist/blob/main/MNIST.ipynb)
 
 ### Social 
