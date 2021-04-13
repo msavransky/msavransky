@@ -26,5 +26,9 @@ Ongoing Studies:
 - [Covid-19 data visualization](https://github.com/msavransky/covid/blob/main/Covid_19_VIS.ipynb): [Bar Chart Race](https://public.flourish.studio/visualisation/5397945/)
 - [MNIST](https://github.com/msavransky/mnist/blob/main/MNIST.ipynb)
 
+### GitHub Stats
+[Martin Savransky's GitHub stats](https://github-readme-stats.vercel.app/api?username=msavransky&show_icons=true&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavransky)
+
 ### Social 
 [twitter](https://twitter.com/MartinSavransky) | [linkedin](https://www.linkedin.com/in/martin-savransky-24596836/) | [research gate](https://www.researchgate.net/profile/Martin-Savransky) 
