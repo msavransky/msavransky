@@ -27,7 +27,7 @@ Ongoing Studies:
 - [MNIST](https://github.com/msavransky/mnist/blob/main/MNIST.ipynb)
 
 ### GitHub Stats
-[![Martin Savransky's GitHub stats](https://github-readme-stats.vercel.app/api?username=msavransky&show_icons=true&theme=radical)](https://github.com/msavransky/github-readme-stats)
+[![Martin Savransky's GitHub stats](https://github-readme-stats.vercel.app/api?username=msavransky&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/msavransky/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavransky&layout=compact)](https://github.com/msavransky/github-readme-stats)
 
 ### Social 
