@@ -1,7 +1,7 @@
 ## Personal Website
 ### Position
-- Production at [tiap](https://www.tiapsa.com/)
-- Professor at [utdt](https://www.utdt.edu/)
+- Data Scientist at [mutt](https://muttdata.ai/)
+- Former professor at [utdt](https://www.utdt.edu/)
 - Former Head of practical assignments at [uba](http://web.dm.uba.ar/)
 
 ### Data Science projects
@@ -19,10 +19,6 @@ Published articles:
 - [Hypercyclic behavior of some non-convolution operators](http://www.mathjournals.org/jot/2017-077-001/2017-077-001-003.html)
 - [Strongly mixing convolution operators on Fréchet spaces of holomorphic functions](https://link.springer.com/article/10.1007/s00020-014-2182-5)
 - [Dynamics of non-convolution operators and holomorphy types](https://www.sciencedirect.com/science/article/abs/pii/S0022247X18306814)
-
-Ongoing Studies:
-- Data Science at [Acamica](https://www.acamica.com/)
-- Specialization in education in natural sciences at [Udesa](https://udesa.edu.ar/)
 
 ### GitHub Stats
 [![Martin Savransky's GitHub stats](https://github-readme-stats.vercel.app/api?username=msavransky&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/msavransky/github-readme-stats)
